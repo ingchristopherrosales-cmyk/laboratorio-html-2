@@ -24,3 +24,12 @@ Texto con el proceso para realizar el platillo
 Recuerda subir tus cambios a github, usando git push
 
 ## No es necesario que crees una rama en esta ocasión trabaja sobre la rama principal de tu fork. 
+Cree mi rama
+Trabaje en mi archivo de laboratorio
+Lo abrí en Visual code
+Modifique mi index 
+Agregue mi archivo style.css
+Guarde cambios
+Regrese a terminal y use add y commit 
+hice un merge de la rama
+subí cambios a github 
